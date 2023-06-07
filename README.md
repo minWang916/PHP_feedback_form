@@ -8,11 +8,11 @@ Experience our PHP-based feedback webpage powered by MySQL. Easily submit your t
 
 The website contains 3 main sections:
 
-+ Index.php: The main front cover of the website, where users enter their name, email and feedback.
++ **Index.php**: The main front cover of the website, where users enter their name, email and feedback.
 
-+ Feedback.php: This page displays all past feedbacks of previous users. The order of displayed feedbacks is from oldest to latest.
++ **Feedback.php**: This page displays all past feedbacks of previous users. The order of displayed feedbacks is from oldest to latest.
  
-+ About.php: This page shows a brief description about this feedback website. 
++ **About.php**: This page shows a brief description about this feedback website. 
 
 
 ## Author
