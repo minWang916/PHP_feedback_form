@@ -4,7 +4,11 @@
 Experience our PHP-based feedback webpage powered by MySQL. Easily submit your thoughts and suggestions through a user-friendly interface. Our secure database stores all feedback for efficient analysis and improvement. Trust our reliable and scalable platform for valuable insights and enhanced customer satisfaction.
 
 Link: http://feedback-php.great-site.net/index.php
+## Tech Stack
 
+**Front End:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white), ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Back End:** ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white), ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Appendix
 
@@ -43,11 +47,7 @@ The website contains 3 main sections:
 
 ![about](https://github.com/minWang916/PHP_feedback/assets/116493016/a0c2ad90-eafb-4d79-a54d-7a5779e4da56)
 
-## Tech Stack
 
-**Front End:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white), ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Back End:** ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white), ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ## Installation
